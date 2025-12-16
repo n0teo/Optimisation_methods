@@ -319,8 +319,8 @@ def main(test, target_iterations=None):
 test_iterations = {
     'test_1': 78,
     'test_2': 66,
-    'test_3': 28,  # Растригина
-    'test_4': 176, # Экли
+    'test_3': 28,
+    'test_4': 176,
     'test_5': 36,
     'test_6': 94
 }
