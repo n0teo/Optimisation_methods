@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-class PiyavskyMethod:
+class PiyavskyMethod фигня:
     # Класс для нахождения минимума липшицевой функции с помощью метода Пиявского (ломанных)
 
     def __init__(self, func: str, x_start: float, x_end: float, eps=0.01) -> None:
